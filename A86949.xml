@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech and confession, of Sr Henry Hide (embassador for the King of Scotland, to the emperour of Turkie) at the place of execution, against the Royal Exchange in Cornhill, on the day the 4 of March, 1651. with the manner of his deportment on the scaffold; his kissing of the ax and block, his prayer; and oration to the people, touching his master the King; as also the manner how he was first taken in Turkie, by the English marchants, and sent prisoner to the Parliament, in the London-Dragon. With the charge exhibited against him at his tryal.</title>
+            <author>Hyde, Henry, Sir, 1605 or 6-1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86949</idno>
+            <idno type="STC">Wing H3870</idno>
+            <idno type="STC">Thomason E625_13</idno>
+            <idno type="STC">ESTC R206505</idno>
+            <idno type="EEBO-CITATION">99865650</idno>
+            <idno type="PROQUEST">99865650</idno>
+            <idno type="VID">165816</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86949)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165816)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 96:E625[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech and confession, of Sr Henry Hide (embassador for the King of Scotland, to the emperour of Turkie) at the place of execution, against the Royal Exchange in Cornhill, on the day the 4 of March, 1651. with the manner of his deportment on the scaffold; his kissing of the ax and block, his prayer; and oration to the people, touching his master the King; as also the manner how he was first taken in Turkie, by the English marchants, and sent prisoner to the Parliament, in the London-Dragon. With the charge exhibited against him at his tryal.</title>
+                  <author>Hyde, Henry, Sir, 1605 or 6-1651.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.H. and are to be sold in Cornhil,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 5th 1650", the 51 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hyde, Henry, --  Sir, 1605 or 6-1651.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165816:1" rendition="simple:additions"/>
+            <p>THE SPEECH AND Confeſſion, of S<hi rend="sup">r</hi> HENRY HIDE (Embaſſador for the King of <hi>Scotland,</hi> to the Emperour of <hi>Turkie</hi>) at the place of execution, againſt the Royal Exchange in <hi>Cornhill,</hi> on <hi>Tueſday</hi> the 4 of <hi>March,</hi> 1651. with the manner of his deportment on the Scaf<g ref="char:EOLhyphen"/>fold; his kiſſing of the Ax and block; his prayer; and Oration to the People, touching his Maſter the King; As alſo the manner how he was firſt taken in <hi>Turkie,</hi> by the Engliſh Marchants, and ſent priſoner to the Parliament, in the <hi>London-Dragon.</hi> With the Charge exhibited againſt him at his Tryal.</p>
+            <figure/>
+            <p>
+               <hi>London,</hi> Printed for <hi>G.H.</hi> and are to be ſold in Cornhill, 1651..</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:165816:2"/>
+            <pb n="1" facs="tcp:165816:2"/>
+            <head>THE Speech of Sir Henry Hide, Agent for the King of Scotland, to the Emperour of <hi>Turkie,</hi> on the Scaffold at the place of Execution, againſt the Royal Ex<g ref="char:EOLhyphen"/>change in <hi>Cornhill,</hi> onn <hi>Tueſday March</hi> 4. 1651.</head>
+            <p>SIr <hi>Henry Hide</hi> (late Agent for the King of <hi>Scotland,</hi> to the Emperour of <hi>Turkie</hi>) having for theſe two years laſt paſt, been very active in forrein Countries, for the advancing of his Maſters prerogative and power againſt the Parliament of <hi>England;</hi> and alſo endeavouring (what in him lay) to obſtruft all tra<g ref="char:EOLhyphen"/>ding and commerce between the Engliſh Marchants, and others; and in order thereunto, ſome time he ſpent at <hi>Smerney</hi> in <hi>Turkie,</hi> for the better accompliſh<g ref="char:EOLhyphen"/>ing thereof; but finding his negotiations and conſul<g ref="char:EOLhyphen"/>tations to be no way feacible, he rode from thence to the city of <hi>Conſtantinople,</hi> ſoliciting the Vice-Roy a<g ref="char:EOLhyphen"/>bout many things of great and dangerous conſe<g ref="char:EOLhyphen"/>quence; but the Marchants (occaſioned by many fears and jealouſies) having made a great diſcovery
+<pb n="2" facs="tcp:165816:3"/>of his deſign; and being likewiſe informed that he was determined to ſeize and ſecure their ſhips, &amp;c. for the uſe and ſervice of his Maſter; they immediat<g ref="char:EOLhyphen"/>ly reſolved to ſend forth a conſiderable party to in<g ref="char:EOLhyphen"/>tercept him in his return from <hi>Constantinople</hi> to <hi>Smer<g ref="char:EOLhyphen"/>ney;</hi> which accordingly they did (to his great aſto<g ref="char:EOLhyphen"/>niſhment) and brought him aboard the <hi>Dragon,</hi> tran<g ref="char:EOLhyphen"/>ſporting the ſaid Sir <hi>Henry</hi> from thence to <hi>London,</hi> where by ſpecial authority, and command from the Parliament, he was ſent priſoner to the Tower; and after few dayes, brought to a Tryal before the High Court of Juſtice in Weſtminſter Hall, and by Them adjudged guilty of high Treaſon againſt the Com<g ref="char:EOLhyphen"/>mon-wealth of <hi>England;</hi> receiving this Sentence of Death, <hi>To have his head ſevered from his ſhoulders at the Old Exchange, London, on Tueſday the fourth of March</hi> 1651. which accordingly was performed, in the pre<g ref="char:EOLhyphen"/>ſence of many thouſand ſpectators; the manner whereof, together with his Speech, Prayer, and De<g ref="char:EOLhyphen"/>portment, in effect, followeth.</p>
+            <p>On Tueſday being the 4 of this inſtant, Sir <hi>Henry Hide</hi> was brought from the Tower, in a Coach, to the place of execution, being guarded with a Troop of horſe, and accompanied by the Sheriffs of <hi>London,</hi> and the Lieutenant of the Tower; when he came upon the Scaffold, he put off his hat to the ſpectators, de<g ref="char:EOLhyphen"/>porting himſelf with great cheerfulneſſe, and un<g ref="char:EOLhyphen"/>dantedneſſe of ſpirit: then turning himſelf about, he deſired to ſee his Coffin, which was accordingly ſhewed him, a black mourning cloth being alſo pre<g ref="char:EOLhyphen"/>pared to cover the ſame. Then turning himſelf again to the people, and leaning over the railes of the Scaf<g ref="char:EOLhyphen"/>fold, ſpake as followeth.</p>
+            <div type="speech">
+               <pb n="3" facs="tcp:165816:3"/>
+               <opener>
+                  <salute>Good People,</salute>
+               </opener>
+               <p>YOur coming hither to day is to behold a ſad ſpectacle, where you may apparently diſcern an Object of pity; I am by a law condemned to die, and I thank my God that hath appointed me this death for mine offence, for I have alwayes lived a ſin<g ref="char:EOLhyphen"/>ner, and offended my God, for which I humbly im<g ref="char:EOLhyphen"/>plore and deſire a general remiſſion and forgiveneſſe. I am come hither to pay the wages of death, and to ſacrifice my life for my obedience and loyalty to my Maſter the King, for whoſe ſake, I was ever wil<g ref="char:EOLhyphen"/>ling to adventure both life and fortunes. But as for thoſe things laid to my charge, of having a deſign againſt the Engliſh Marchants, I here proteſt my innocency thereof; neither did ever the leaſt thought of evil or prejudice ariſe within my breaſt, againſt this my Native Countrey of England; but alwayes deſired its proſperity and happineſſe; under a quiet and peaceable Government, &amp;c. Much more was ſaid to this purpoſe, and delivered with great ap<g ref="char:EOLhyphen"/>plauſe and earneſtneſſe of ſpirit to the ſpectators: Having ended his ſpeech, he turned himſelf about to Sheriff <hi>Tichburn,</hi> who was all in mourning, and after ſome queries and anſwers, uttered many divine and excellent expreſſions; deſiring them to joyn in pray<g ref="char:EOLhyphen"/>er with him; and kneeling upon his coffin, with his hat in his right hand, and his black mourning gloves in the left, moſt fervently beſought the Lord by prayer, humbly ſupplicating himſelf before his Di<g ref="char:EOLhyphen"/>vine Majeſty, in manner and form as followeth.</p>
+            </div>
+         </div>
+         <div type="prayer">
+            <pb n="4" facs="tcp:165816:4"/>
+            <head>His immediate and fervent Prayer before his Execution.</head>
+            <p>O Lord Jeſus, which art the onely health of all men living, and the e<g ref="char:EOLhyphen"/>verlaſting life of them which dy in thee; I wretched ſinner do ſubmit my ſelf wholy to thy bleſſed Wil; and being ſure that that thing cannot periſh which is committed to thy mercy; willingly now I leave this frail and wicked fleſh, in ſure hope that thou wilt moſt glori<g ref="char:EOLhyphen"/>ouſly reſtore it to me again at the laſt day, in the reſurrection of the juſt: I beſeech thee moſt merciful God, that thou wilt by thy grace make ſtrong my faith againſt all temptations, and defend me with the buckler of thy mercy a<g ref="char:EOLhyphen"/>gainſt all the aſſaults of Satan. I ſee, and know, that there is no hope of ſalvati<g ref="char:EOLhyphen"/>on, but by Thee, O God, and thy Son,
+<pb n="5" facs="tcp:165816:4"/>the Saviour of the World, into whoſe hands I recommend my ſpirit; for my confidence and truſt is in thy moſt merciful goodneſs: O Lord, I have no merits, nor good works, that I may al<g ref="char:EOLhyphen"/>ledge before thee: Of ſins and evil works (alas) I ſee a great heap; but yet through thy mercy, I truſt to be in the number of them, to whom thou wilt not impute their ſins; but receive them as inheritors of thy everlaſting king<g ref="char:EOLhyphen"/>dome. O thou ſweet Jeſus of Heaven, that waſt born for my ſake, and gaveſt thy moſt precious bloud to be ſhed upon the Croſs for my ſake, humbly I beſeech thee, in theſe thy ſufferings, gra<g ref="char:EOLhyphen"/>ciouſly to vouchſafe an intereſt to me; and grant, O moſt merciful Father, that when death ſhal ſhut up the eyes of my body, yet the eyes of my ſoul may ſtil behold and look upon Thee;
+<pb n="6" facs="tcp:165816:5"/>and when Death hath taken the uſe of my Tongue, yet my Heart may cry, and ſay unto Thee, Lord into thy hands I commend my ſoul; Lord Jeſus receive my ſoul.</p>
+            <p>Having ended his prayer, he roſe from his Coffin whereon he kneeled, and turning to Sheriff <hi>Titchborn,</hi> gave him a ſalutation: Then the Executione came to him, and asked him forgiveneſſe: Sir <hi>Henry</hi> replyed, <hi>I freely forgive thee, and all mine enemies; and as a ſignal thereof, here's</hi> 3 l. <hi>for thee.</hi> Then the Executioner took the Block, and placed it on the Scaffold, and Sir <hi>Henry</hi> prepared himſelf for the ſame, pulling off his Cloak, Doublet, and Band, and gave them to his man; which done, he went to the block, and kneeling down, laid his neck thereon, to try how it would fit: ſuddenly he aroſe again, taking his laſt farewel of the miniſter, who came along with him, and the reſt of his friends; and kneeling down again the ſecond time, the Exe<g ref="char:EOLhyphen"/>cutioner ſpread a red Scarf over the block, deſiring the ſign; to which he anſwered, By the ſtretceing forth my hands: Then, after kiſſing the Ax and block, caſting his eyes up to heaven, earneſtly cryed out, Lord Jeſus receive my ſoul; and patiently ſubmit<g ref="char:EOLhyphen"/>ting to the block, immediatly gave the ſign, which the Executioner diligently obſerving, at one blow ſevered his head from his ſhoulders; the head mov'd three times after it was off; but neither body, hands, nor feet once ſtir'd Preſently after the blow was gi<g ref="char:EOLhyphen"/>ven, both head and body were put into a Coffin, and ſo carryed away from off the Scaffold.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
